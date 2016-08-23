@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<% include /partial/head.ejs %>
+	</head>
+	<body>
+		<% include /partial/Header.ejs %>
+		<div class="container">
+		  <div class="row">
+			<div class="col-md-12"> 
+			  <div class="panel">
+				<div class="panel-body">
+				  <!--/stories-->
+				  <div class="row">    
+					<br>
+					<div class="col-md-2 col-sm-3 text-center">
+						<% include /partial/Account/Login.ejs %>
+					</div>
+					<div class="col-md-10 col-sm-9">
+						<% include /partial/Account/Register.ejs %>
+					</div>
+				  </div>
+				  <!--/stories-->
+				  <a href="/" class="btn btn-primary pull-right btnNext">More <i class="glyphicon glyphicon-chevron-right"></i></a>
+				</div>
+			  </div>
+			</div><!--/col-12-->
+		  </div>
+		</div>
+		<hr>
+		<% include /partial/Footer.ejs %>
+	</body>
+</html>

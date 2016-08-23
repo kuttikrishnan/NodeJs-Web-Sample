@@ -1,0 +1,15 @@
+ Volume in drive D has no label.
+ Volume Serial Number is AC98-9829
+
+ Directory of D:\Learning\Node\Trys\nodejs-express-web-applications\5-nodejs-express-web-applications-m5-exercise-files\codeEnd\library\public\images
+
+[.]                                 Light.jpg
+[..]                                Man-walking-away.jpg
+Abandoned-bike-on-track-new.jpg     Man-walking-up-eerie-stairs.jpg
+Abandoned-wooden-boat.jpg           Ominous-wrought-iron-railings.jpg
+Circular-mirror.jpg                 Ornate-balcony.jpg
+Creepy-branches.jpg                 Woman-running-down-old-steps.jpg
+Fleur-de-lis.jpg                    
+kk.txt                              
+              12 File(s)      1,149,882 bytes
+               2 Dir(s)  67,199,307,776 bytes free
